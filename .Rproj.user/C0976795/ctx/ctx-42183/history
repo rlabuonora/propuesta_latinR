@@ -1,0 +1,2 @@
+devtools::install_github("latinr/latinr").
+devtools::install_github("latinr/latinr")
